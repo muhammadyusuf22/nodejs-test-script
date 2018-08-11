@@ -41,7 +41,7 @@
     npm run test-watch
     ```
 
-Catatan :
+### Catatan :
     "test": "mocha **/*.test.js" ---> Ini merupakan perintah test dan akan menjalankan semua File dengan ekstensi (.test.js)
     Jika ingin spesifik hanya satu file testing yang ingin dijalankan maka ganti menjadi seperti berikut :
 
